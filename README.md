@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I’m Gilmar Correia
 
-<!--
-**GilmarCorreia/GilmarCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer and researcher passionate about the intersection of **AI, Cloud, and Robotics** — transforming ideas into scalable, intelligent systems.  
+My work blends **cloud infrastructure (GCP, Terraform, Cloud Run, Kubernetes)** with **robotics simulation and control (ROS 2, CoppeliaSim, C++)**, aiming to design technologies that empower people and industries.
 
-Here are some ideas to get you started:
+Currently, I’m leading projects focused on **educational innovation and Industry 5.0**, such as the **DropS initiative**, which bridges advanced technology with human skill development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Core Interests
+- Cloud Architecture & Automation (GCP, Terraform, DevOps)
+- Robotics Middleware & Simulation (ROS 2, CoppeliaSim, Gazebo)
+- AI-driven Systems & Digital Twins
+- EdTech, Human-Centered Innovation, and Industry 5.0
+
+---
+
+### 🌍 Vision
+> Technology is not just about automation — it’s about **amplifying human capability**.  
+> I believe in building tools that inspire learning, creativity, and transformation.
+
+---
+
+📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/gilmarcorreia) • [Website](https://drops.is)
