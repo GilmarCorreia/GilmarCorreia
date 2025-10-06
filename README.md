@@ -21,4 +21,4 @@ Currently, I’m leading projects focused on **educational innovation and Indust
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/gilmarcorreia) • [Website](https://drops.is)
+📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/gilmar-jeronimo) • [Website](https://drops.is)
