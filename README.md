@@ -8,8 +8,8 @@ Currently, I’m leading projects focused on **educational innovation and Indust
 ---
 
 ### 🧠 Core Interests
+- Robotics Middleware & Simulation (ROS 2, CoppeliaSim, Gazebo, Isaac Sim)
 - Cloud Architecture & Automation (GCP, Terraform, DevOps)
-- Robotics Middleware & Simulation (ROS 2, CoppeliaSim, Gazebo)
 - AI-driven Systems & Digital Twins
 - EdTech, Human-Centered Innovation, and Industry 5.0
 
